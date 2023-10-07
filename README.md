@@ -1,6 +1,6 @@
 # AtliQo Telecom Analysis - PowerBI
 
-Live Dashboard - [Link](https://www.novypro.com/project/atliqo-telecom-analysis-1)
+Live Dashboard - [Link](https://www.novypro.com/project/atliqo-telecom-analytics)
 
 ## Problem statement
 
